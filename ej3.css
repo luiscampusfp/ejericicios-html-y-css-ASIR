@@ -1,0 +1,11 @@
+.cuadro{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    margin-left: 40px;
+}
+
+.contenedor{
+    display: flex;
+    align-items: center;
+}
